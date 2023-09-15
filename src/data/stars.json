@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "name": "Sirius",
+        "type": "Estrella binaria, Secuencia Principal (tipo A1V)",
+        "distancia": "8.6 años luz",
+        "mass": "2.02 masas solares",
+        "radius": "1.711 radios solares",
+        "temperature": "9,940 K",
+        "luminosity": "25.4 luminosidades solares",
+        "age": "200-300 millones de años",
+        "composition": {
+            "hydrogen": "71%",
+            "helium": "27%",
+            "otros_elementos": "2%"
+        },
+        "stellar_history": "Sirius es una de las estrellas más brillantes en el cielo nocturno y es una estrella binaria compuesta por Sirius A y Sirius B. Es una estrella blanca de la secuencia principal que ha consumido la mayor parte de su hidrógeno y se encuentra en una etapa avanzada de su vida."
+    },
+    {
+        "id": 2,
+        "name": "Betelgeuse",
+        "type": "Supergigante Roja (tipo M1-2Ia-Iab)",
+        "distancia": "640 años luz",
+        "mass": "11-20 masas solares",
+        "radius": "887-955 radios solares",
+        "temperature": "3,000 K",
+        "luminosity": "126,000-143,000 luminosidades solares",
+        "age": "7-8 millones de años",
+        "composition": {
+            "hydrogen": "85%",
+            "helium": "13%",
+            "otros_elementos": "2%"
+        },
+        "stellar_history": "Betelgeuse es una supergigante roja en la constelación de Orión. Es una de las estrellas más grandes y luminosas conocidas. Se espera que evolucione hacia una supernova en un futuro geológico cercano."
+    },
+    {
+        "id": 3,
+        "name": "Alfa Centauri A",
+        "type": "Estrella enana amarilla (tipo G2V)",
+        "distancia": "4.37 años luz",
+        "mass": "1.10 masas solares",
+        "radius": "1.22 radios solares",
+        "temperature": "5,782 K",
+        "luminosity": "1.52 luminosidades solares",
+        "age": "5-6 mil millones de años",
+        "composition": {
+            "hydrogen": "71%",
+            "helium": "27%",
+            "otros_elementos": "2%"
+        },
+        "stellar_history": "Alfa Centauri A es una estrella similar al Sol y es parte del sistema estelar Alfa Centauri, que incluye a Alfa Centauri B y Proxima Centauri. Es una de las estrellas más cercanas al sistema solar."
+    },
+    {
+        "id": 4,
+        "name": "Vega",
+        "type": "Estrella blanca de la secuencia principal (tipo A0V)",
+        "distancia": "25.3 años luz",
+        "mass": "2.15 masas solares",
+        "radius": "2.36 radios solares",
+        "temperature": "9,524 K",
+        "luminosity": "37.1 luminosidades solares",
+        "age": "455-650 millones de años",
+        "composition": {
+            "hydrogen": "71%",
+            "helium": "27%",
+            "otros_elementos": "2%"
+        },
+        "stellar_history": "Vega es una estrella brillante en la constelación de Lira. Es una estrella joven que aún se encuentra en la secuencia principal y se caracteriza por su brillo y temperatura elevada."
+    }
+]
